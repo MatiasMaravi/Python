@@ -1,6 +1,6 @@
 # ¿Qué es Python?
 
-![Alt Text](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png)
+![Alt Text](https://tutorialesenpdf.com/wp-content/uploads/2016/09/python-tutorial-pdf.jpg)
 
 Python es un lenguaje de programacion de alto nivel, que puede ser aprendido por todos, usado para el desarrollo web  y de aplicaciones informáticas.
 
