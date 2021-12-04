@@ -3,7 +3,7 @@ Hay decenas de miles de páginas web construidas con Python en Internet. Python 
 
 Muchas de las empresas de tecnología más exitosas están eligiendo Python para el backend de su página web. Echemos un vistazo a 10 web famosas hechas con Python.
 
-## # Aplicaciones hechas con Python
+## Aplicaciones hechas con Python
 Hay decenas de miles de páginas web construidas con Python en Internet. Python es un potente lenguaje de programación creado por Guido van Rossum en 1991 y es  popular tanto entre los principiantes como entre los desarrolladores más expertos.
 
 Muchas de las empresas de tecnología más exitosas están eligiendo Python para el backend de su página web. Echemos un vistazo a 10 web famosas hechas con Python.
