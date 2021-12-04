@@ -56,4 +56,3 @@ Python 3.0 rompe la compatibilidad hacia atrás del lenguaje, ya que el código 
 Uno de los proyectos más impresionantes escritos en Python es el servidor de Dropbox, (lugar donde hoy en día trabaja Guido) que hoy en día sirve a millones de personas. Otro uso increíble es por la comunidad científica como herramienta para Machine Learning.
 
 Por último los dejo un mensaje de Guido Van Rossum para todos los programadores jóvenes, o aquellos que están empezando a programar.
-esc ribo algo x2
