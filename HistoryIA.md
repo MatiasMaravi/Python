@@ -33,4 +33,4 @@ Crece por otro lado el uso del “Low Code”, tecnología que permite a usuario
 ### 2022-2024
 Se incrementará el uso del IoT y los dispositivos controlados por voz, no sólo por la mayor entrada de los asistentes de voz de Google, Amazon o Apple en el ámbito doméstico sino por el crecimiento esperado de su implantación en oficinas y áreas de trabajo.
 
-Con todo, se estima que la Inteligencia Artificial genere más de 300 mil millones de dólares anuales de negocio en todo a lo largo de 2024.
+
